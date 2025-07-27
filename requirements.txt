@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-groq
+langgraph
+langchain_mcp_adapters
+ffmpeg-python
+moviepy
+
